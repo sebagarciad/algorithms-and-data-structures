@@ -1,4 +1,4 @@
-module tp1
+module rpn_calculator
 
 go 1.22
 

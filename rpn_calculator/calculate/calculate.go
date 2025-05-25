@@ -3,9 +3,8 @@ package calculate
 import (
 	"errors"
 	"strconv"
-
-	ADTStack "github.com/sebagarciad/algorithms-and-data-structures/data_structures/stack"
-	Calc "github.com/sebagarciad/algorithms-and-data-structures/rpn_calculator/calculator"
+	// ADTStack "github.com/sebagarciad/algorithms-and-data-structures/data_structures/stack"
+	// Calc "github.com/sebagarciad/algorithms-and-data-structures/rpn_calculator/calculator"
 )
 
 func Operate(elements []string) (int64, error) {

@@ -1,8 +1,6 @@
 package calculator
 
-import (
-	ADTStack "github.com/sebagarciad/algorithms-and-data-structures/data_structures/stack"
-)
+// ADTStack "github.com/sebagarciad/algorithms-and-data-structures/data_structures/stack"
 
 type Calculator interface {
 	BinaryOperations(ADTStack.Pila[int64], string) (int64, error)
