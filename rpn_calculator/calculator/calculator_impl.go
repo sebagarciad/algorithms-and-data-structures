@@ -2,8 +2,9 @@ package calculator
 
 import (
 	"errors"
-	// TDAPila "github.com/sebagarciad/algorithms-and-data-structures/data_structures/stack"
-	// Op "github.com/sebagarciad/algorithms-and-data-structures/rpn_calculator/operations"
+
+	TDAPila "github.com/sebagarciad/algorithms-and-data-structures/data_structures/stack"
+	Op "github.com/sebagarciad/algorithms-and-data-structures/rpn_calculator/operations"
 )
 
 const (
