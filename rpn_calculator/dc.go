@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	operation "github.com/sebagarciad/algorithms-and-data-structures/rpn_calculator/calculate"
+	operation "rpn_calculator/calculate"
 )
 
 func main() {
