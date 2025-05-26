@@ -46,13 +46,19 @@ If an error occurs during the evaluation of a line (e.g., malformed expression, 
 
 ### 🛠️ Compilation and Usage
 
-Compile with:
-    'go build -o dc'
+- Compile with:
+    '''
+    go build -o dc
+    '''
 
-Run with:
-    './dc < expressions.txt'
+- Run with:
+    '''
+    ./dc < expressions.txt
+    '''
 
-Or interactively:
-    '''./dc
-    3 5 + 2 ^'''
+- Or interactively:
+    '''
+    ./dc
+    3 5 + 2 ^
+    '''
     
