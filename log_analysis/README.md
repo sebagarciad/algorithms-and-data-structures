@@ -115,7 +115,17 @@ OK
     ```
 
 ## Run with:
+    
+    Run the program and enter commands via stdin:
+
     ```
     ./main
+    ```
 
+    Example session:
+
+    ```
+    agregar_archivo 20171025.log
+    ver_visitantes 62.0.0.0 62.255.255.255
+    ver_mas_visitados 10
     ```
