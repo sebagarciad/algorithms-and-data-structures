@@ -2,7 +2,7 @@
 
 This project is a command-line calculator that evaluates mathematical expressions written in **reverse Polish notation (RPN)**, also known as **postfix notation**.
 
-It was developed as part of coursework for an Algorithms and Data Structures class at the University of Buenos Aires (UBA), where I study Software Engineering in the Faculty of Engineering (FIUBA).
+It was developed as part of coursework for an Algorithms and Data Structures course at the University of Buenos Aires (UBA), where I study Software Engineering in the Faculty of Engineering (FIUBA).
 
 ---
 

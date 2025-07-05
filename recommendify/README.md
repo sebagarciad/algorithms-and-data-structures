@@ -35,7 +35,7 @@ These models enable traversal and recommendation logic.
 ## 💻 Usage
 
 ```bash
-$ ./recomendify spotify-procesado.tsv
+$ ./recomendify.py spotify-mini.tsv
 ```
 
 Then, commands are entered via stdin (or redirected from a file):
@@ -55,6 +55,7 @@ Lists the top n most central songs using PageRank.
 🔹 **Personalized Recommendation**
 
 ```recomendacion canciones <n> <song1> >>>> <song2> >>>> ...```
+
 ```recomendacion usuarios <n> <song1> >>>> <song2> >>>> ...```
 
 Recommends songs or users based on personalized PageRank from a given song list.
